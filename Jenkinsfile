@@ -18,7 +18,7 @@ Pipeline{
 				}
 			}
 			
-			Stage('deploy){
+			Stage('deploy'){
 				
 				Steps{
 					echo "Hi this is deploy stage"
